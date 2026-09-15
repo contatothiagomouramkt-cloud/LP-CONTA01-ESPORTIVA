@@ -1,3 +1,4 @@
-name = "pedrinha"
+# wrangler.toml
+name = 'lp-conta01-esportiva'
 main = "index.js"
 compatibility_date = "2024-01-01"
